@@ -1,0 +1,38 @@
+body {
+	background-image: url(../Images/image4.jpg);
+	background-repeat: no-repeat;
+	background-size: 500px 1000px;
+}
+
+h2 {
+	position: absolute;
+	top: 50px;
+	text-align: center;
+}
+
+#h5 {
+	position: absolute;
+	top: 500px;
+	left: 150px;
+	text-align: center;
+}
+
+#h2 {
+	position: absolute;
+	top: 150px;
+	left: 100px;
+}
+
+h5 {
+	position: absolute;
+	top: 120px;
+	left: 70px;
+	text-align: center;
+}
+
+.grid-container {
+	position: absolute;
+	top: 200px;
+	display: grid;
+	grid-row-gap: 1px;
+}

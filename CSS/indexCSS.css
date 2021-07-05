@@ -1,0 +1,49 @@
+body {
+	background-image: url(../Images/image4.jpg);
+	background-repeat: no-repeat;
+	background-size: 500px 1000px;
+}
+
+h2 {
+	position: absolute;
+	top: 50px;
+	text-align: center;
+}
+
+#h5 {
+	position: absolute;
+	top: 500px;
+	left: 150px;
+	text-align: center;
+}
+
+h5 {
+	position: absolute;
+	top: 120px;
+	left: 70px;
+	text-align: center;
+}
+
+#a1:hover {
+	color: red;
+}
+
+#a2:hover {
+	color: red;
+}
+
+#a1 {
+	position: absolute;
+	top: 250px;
+	left: 80px;
+	font-size: 25px;
+	color: black;
+}
+
+#a2 {
+	position: absolute;
+	top: 300px;
+	left: 80px;
+	font-size: 25px;
+	color: black;
+}
